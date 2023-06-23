@@ -1,5 +1,5 @@
 import "./index.css";
-import Logo from "./Media/tet.svg";
+import Logo from "./Media/ANK.svg";
 import Discord from "./Media/discord.svg";
 import App from "./Media/app.svg";
 import Athena from "./Media/dogs.svg";
@@ -8,7 +8,7 @@ import Pattern from "./Media/bg_pattern.png";
 function Landing() {
 
   function openTwitter() {
-    window.open("https://twitter.com/intent/tweet?text=This%20is%20my%20proof%20of%20participation%20for%20%40PaddasFinance%0D%0A%0D%0AThe%20first%20AutoStaking%20protocol%20on%20%23zkSync%F0%9F%94%B1");
+    window.open("https://twitter.com/intent/tweet?text=I%20have%20reserved%20my%20%24ANK%20airdrop%20from%20%40AnkryptXYZ%20%F0%9F%90%8D&");
   }
   
   return (
@@ -27,7 +27,7 @@ function Landing() {
       <main>
         <div className="landing">
           <h1><span>Airdrop Registration</span> <br/> is Open. </h1>
-          <h4>Reserve your $KEIRO Airdrop</h4>
+          <h4>Reserve your $ANK Airdrop</h4>
           <button onClick={openTwitter}>RESERVE</button>
         </div>
         <div className="hidden">
